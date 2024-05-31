@@ -1,5 +1,3 @@
-
-import logo from "../../assets/logo.png";
 import arrow_icon from "../../assets/arrow_icon.png"
 import { Link } from "react-router-dom";
 import { useContext } from "react";
@@ -42,7 +40,7 @@ const Navbar = () => {
             <div className='right-nav flex items-center  gap-5'>
 
                 <div className="logo ">
-                  <img className=" w-max-12vw-120px" src={logo} alt="" />
+                <h2 className="font-mono text-green-400 text-2xl">Crypto Tracker</h2>
                 </div>
 
                 <div className="lists ml-12 ">
