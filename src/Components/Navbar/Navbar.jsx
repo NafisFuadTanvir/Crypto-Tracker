@@ -40,7 +40,7 @@ const Navbar = () => {
             <div className='right-nav flex items-center  gap-5'>
 
                 <div className="logo ">
-                <h2 className="font-mono text-green-400 text-2xl">Crypto Tracker</h2>
+               <Link to="/"> <h2  className="font-mono text-green-400 text-2xl">Crypto_Tracker</h2></Link>
                 </div>
 
                 <div className="lists ml-12 ">
