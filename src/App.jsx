@@ -8,7 +8,7 @@ function App() {
  
 
   return (
-   <div className="min-h-[100vh] text-white bg-gradient-to-r from-blue-800 to-indigo-900  font-outfit">
+   <div className="min-h-[100vh] text-white bg-gradient-to-l from-blue-800 to-indigo-900  font-outfit">
 
        <Navbar></Navbar>
 
